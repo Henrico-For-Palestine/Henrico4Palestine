@@ -65,7 +65,7 @@ nav a:hover{
 }
 
 main{
-    margin: 0% 15% 0% 15%;
+    margin: 0% 10% 0% 10%;
 }
 
 footer{
@@ -87,7 +87,7 @@ footer{
 }
 
 img{
-    margin:2px;
+    margin:5px;
     border: 2px #ccc solid;
     border-radius: 5px;
     float:right;
