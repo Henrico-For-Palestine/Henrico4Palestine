@@ -71,3 +71,8 @@ footer{
     background-image: url("../media/Flag_of_Palestine.png");
     padding: 22%;
 }
+
+.footer_content{
+    display: flex;
+    justify-self: left;
+}
