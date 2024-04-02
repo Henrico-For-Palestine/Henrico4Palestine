@@ -1,7 +1,7 @@
 body{
     margin:0px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #ccc;
+    background-color: #eee;
 }
 
 h1, h2{
@@ -37,8 +37,8 @@ nav{
 }
 
 nav a{
-    padding: 20px 30px 20px 30px;
-    margin:0px;
+    padding: 10px 15px 10px 15px;
+    margin:2px 2px 2px 2px;
     color:#000;
     background-color: #eee;
     text-decoration: none;
@@ -55,9 +55,7 @@ nav a:hover{
 }
 
 main{
-    background-color: #eee;
     margin: 0% 15% 0% 15%;
-    padding: 2%;
 }
 
 footer{
