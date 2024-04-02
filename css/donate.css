@@ -87,6 +87,7 @@ footer{
 }
 
 img{
+    margin:2px;
     border: 2px #ccc solid;
     border-radius: 5px;
     float:right;
