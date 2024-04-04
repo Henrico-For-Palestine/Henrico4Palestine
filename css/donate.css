@@ -68,6 +68,10 @@ main{
     margin: 0% 10% 0% 10%;
 }
 
+section{
+    margin: 6% 0% 6% 0%;
+}
+
 footer{
     position: static;
     margin:0px 0px 0px 0px;
@@ -91,4 +95,9 @@ img{
     border: 2px #ccc solid;
     border-radius: 5px;
     float:right;
+}
+
+.a_center{
+    text-align: center;
+    text-indent: 0px;
 }
