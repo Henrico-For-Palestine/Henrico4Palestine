@@ -75,7 +75,7 @@ footer{
     justify-self: left;
 }
 
-@media (min-width: 500px) { 
+@media (min-width: 624px) { 
     img{
         border: 2px #ccc solid;
         border-radius: 5px;
@@ -99,7 +99,7 @@ footer{
         margin: 0% 15% 0% 15%;
     }
 }
-@media (max-width: 501px) {
+@media (max-width: 625px) {
     img{
         border: 2px #ccc solid;
         border-radius: 5px;
