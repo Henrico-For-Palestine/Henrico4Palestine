@@ -84,10 +84,25 @@ footer{
     justify-self: left;
 }
 
-img{
-    border: 2px #ccc solid;
-    border-radius: 5px;
-    float:right;
+@media (min-width: 500px) { 
+    img{
+        border: 2px #ccc solid;
+        border-radius: 5px;
+        float:right;
+        max-width: 100%;
+        min-width: 300px;
+        height: auto;
+    }
+}
+@media (max-width: 501px) {
+    img{
+        border: 2px #ccc solid;
+        border-radius: 5px;
+        max-width: 100%;
+        min-width: 300px;
+        height:auto;
+    }
+
 }
 
 .a_center{
