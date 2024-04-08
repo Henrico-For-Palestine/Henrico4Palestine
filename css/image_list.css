@@ -85,6 +85,7 @@ footer p{
         max-width: 100%;
         min-width: 300px;
         height: auto;
+        padding:5px;
     }
     p{
         text-indent: 0.5in;
@@ -125,7 +126,7 @@ footer p{
         min-width: 48px;
         max-width: 100%;
         height:auto;
-        padding:5px;
+        padding:0px;
         margin:auto;
     }
 }
